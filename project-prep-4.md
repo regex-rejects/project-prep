@@ -18,11 +18,30 @@ Start out by creating at least 5 user stories for your approved project. The out
 
 Each story in your project management board should contain:
 
-1.  Title
-2.  User Story sentence
-3.  Feature Tasks
-4.  Acceptance Tests
+1.  Furthered Learning
+2.  As someone who's searching for a job I want to know what technologies are most relevant in job postings, and thus where I should be focusing my learning into. 
+3.  Web scraper will grab technology terms from a number of job postings. 
+4.  Data scraped from the postings will be posted as a graph to show which terms show up most often. 
 
+1.  Where do I belong?
+2.  As someone who's searching for a job I would like to be able to see where to point my job search, based on my current tech stack.
+3.  Web Scraper will show the tech terms companies are interested in.
+4.  Data scraped will be counted to show how much each term is listed within the set.
+
+1.  Visualization
+2.  As a job searcher I'm a lot more visual and would like to see the data within graphs.
+3.  Data analysis on the web scraped data to display a graph of the terms grabbed and their relevance. 
+4.  Graph of terms and their counts will be displayed in a readable graph. 
+
+1.  Consistency
+2.  As someone searching for a job I want to know how frequently the technology desired is changing. 
+3.  Perform two scrapes, one at the start of the week and one a couple of days later and compare the patterns
+4.  Display two graphs, and show the difference(if any) between the two scrapes. 
+
+1.  Compare Salary to Tech Term (Stretch)
+2.  As someone who's searching for a job I'd like to know how salary ranges compare between two tech skill sets. 
+3.  Web Scraper will include salary ranges listed on job listing, and data visualization will compare these two columns (tech term and salary)
+4.  Graph will display the comparison between tech terms and salary range. 
 Provide a link to your project management board that contains your user stories in your project Readme.
 
 ## Software Requirements
